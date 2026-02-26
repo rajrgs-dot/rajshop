@@ -1,0 +1,109 @@
+@import url("https://fonts.googleapis.com/css2?family=Asap&family=Assistant&family=Cardo&family=Comfortaa&family=Libre+Baskerville&family=Poppins&family=Quicksand&display=swap");
+
+.lib-circle-color-icon {
+  fill: #212529 !important;
+}
+
+.lib-secondary-circle-color-icon {
+  fill: #91a3b5 !important;
+}
+
+.lib-text-color-icon {
+  fill: #ffffff !important;
+}
+
+.lib-text-secondary-color-icon {
+  fill: #000000 !important;
+}
+
+.lib-secondary-color-icon svg path {
+  fill: #91a3b5 !important;
+}
+
+.lib-primary-background-color {
+  background-color: #212529 !important;
+}
+
+.lib-secondary-primary-text-color {
+  color: #000000 !important;
+}
+
+.lib-primary-text-color {
+  color: #ffffff !important;
+}
+
+.lib-secondary-background-color {
+  background-color: #91a3b5 !important;
+}
+
+.lib-secondary-text-color {
+  color: #91a3b5 !important;
+}
+
+.lib-secondary-text-color--default {
+color: #91a3b5 !important;
+}
+
+.lib-secondary-text-color-contrast {
+color: #000000 !important;
+}
+
+.lib-third-background-color {
+  background-color: #ffffff !important;
+}
+
+.lib-secondary-background-color--opacity-045 {
+  background: #91a3b577 !important;
+}
+
+.lib-third-color-icon svg path {
+  fill: #ffffff !important;
+}
+
+.lib-font-family {
+  font-family: 'Poppins' !important;
+}
+
+.lib-primary-color-icon svg path {
+  fill: #212529 !important;
+}
+
+.lib-primary-border-color {
+  border-color: #212529 !important;
+}
+
+.lib-secondary-text-border-color {
+border-color: #000000 !important;
+}
+
+.lib-secondary-background-color--opacity-020 {
+  background: #91a3b533 !important;
+}
+
+.lib-primary-background-color--opacity-010 {
+  background: #2125291a !important;
+}
+
+.lib-primary-background-color--opacity-010-or-default {
+background: #2125291a !important;
+}
+
+.lib-primary-secondary-color-icon svg path {
+  fill: #000000 !important;
+}
+
+main {
+  font-family: 'Poppins' !important;
+}
+
+.lib-footer-border-color {
+  border-color: #91A3B5 !important;
+}
+
+.lib-footer-text-color {
+  color: #91A3B5 !important;
+}
+
+.lib-third-text-fill {
+  fill: #91A3B5 !important;
+}
