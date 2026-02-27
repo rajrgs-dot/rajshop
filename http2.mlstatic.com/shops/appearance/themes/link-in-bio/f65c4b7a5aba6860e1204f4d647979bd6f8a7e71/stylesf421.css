@@ -1,0 +1,59 @@
+/*!***************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./templates/link-in-bio/views/styles/main.scss ***!
+  \***************************************************************************************************************************************/
+.lib-header__wrapper {
+  box-sizing: border-box;
+  background: #212529;
+  padding: 34px 0;
+}
+
+.lib-header__header {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.lib-header__wrapper--small {
+  padding: 48px 0;
+}
+
+.lib-header__logo {
+  height: 70px;
+  width: 70px;
+}
+
+.lib-header__title {
+  color: #fff;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 18px;
+  margin: 20px 0 0;
+}
+
+.lib-header__description {
+  color: #91a3b5;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 18px;
+  margin: 8px 0 0;
+  max-width: 242px;
+  text-align: center;
+}
+
+.lib-nav-footer .lib-nav-footer__text {
+  align-items: center;
+}
+.lib-nav-footer .lib-nav-footer__options {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+.lib-nav-footer__image {
+  margin-bottom: 14px;
+}
+.lib-nav-footer__logos {
+  display: flex;
+  flex-direction: column;
+}
+
+/*# sourceMappingURL=link-in-bio.css.map*/
